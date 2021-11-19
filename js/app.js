@@ -1,5 +1,5 @@
 var url= window.location.href;
-var swlocation= 'https://jesusz11-1.github.io/chatbreakingbad.github.io/sw.js';
+var swlocation= 'https://carolinatdh.github.io/chat.github.io//sw.js';
 
 if(navigator.serviceWorker){
     if(url.includes('localhost')){
